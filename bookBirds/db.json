@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "title": "Secular Buddhism",
+      "author": "Noah Rasheta",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/731/9781366922731.jpg",
+      "price_now": 770,
+      "actual_price": 770,
+      "availability": "Available",
+      "id": 1
+    },
+    {
+      "title": "The Hardest Place",
+      "author": "Wesley Morgan",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/060/9780812995060.jpg",
+      "price_now": 815,
+      "actual_price": 1199,
+      "availability": "Available",
+      "id": 2
+    },
+    {
+      "title": "The Enlightenment",
+      "author": "Ritchie Robertson",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/658/9780062410658.jpg",
+      "price_now": 2556,
+      "actual_price": 3600,
+      "availability": "Out of Stock",
+      "id": 3
+    },
+    {
+      "title": "Inside Money",
+      "author": "Zachary Karabell",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/610/9781594206610.jpg",
+      "price_now": 875,
+      "actual_price": 1199,
+      "availability": "Available",
+      "id": 4
+    },
+    {
+      "title": "You Never Forget Your First",
+      "author": "Alexis Coe",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/117/9780735224117.jpg",
+      "price_now": 449,
+      "actual_price": 599,
+      "availability": "Available",
+      "id": 5
+    },
+    {
+      "title": "On Prayers Upon the Prophet",
+      "author": "Talut Dawood",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/105/9781952306105.jpg",
+      "price_now": 1116,
+      "actual_price": 1200,
+      "availability": "Out of Stock",
+      "id": 6
+    },
+    {
+      "title": "Nonstate Warfare",
+      "author": "Stephen Biddle",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/513/9780691207513.jpg",
+      "price_now": 1859,
+      "actual_price": 2734,
+      "availability": "Available",
+      "id": 7
+    },
+    {
+      "title": "George Washington",
+      "author": "David O Stewart",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/985/9780451488985.jpg",
+      "price_now": 679,
+      "actual_price": 999,
+      "availability": "Pre-order",
+      "id": 8
+    },
+    {
+      "title": "Dusk, Night, Dawn",
+      "author": "Anne Lamott",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/696/9780593189696.jpg",
+      "price_now": 419,
+      "actual_price": 599,
+      "availability": "Available",
+      "id": 9
+    },
+    {
+      "title": "The Black Panther Party",
+      "author": "David F Walker",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/705/9781984857705.jpg",
+      "price_now": 482,
+      "actual_price": 699,
+      "availability": "Available",
+      "id": 10
+    },
+    {
+      "title": "Ethics: A Very Short Introduction",
+      "author": "Simon Blackburn",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/101/9780198868101.jpg",
+      "price_now": 179,
+      "actual_price": 299,
+      "availability": "Out of Stock",
+      "id": 11
+    },
+    {
+      "title": "Last Best Hope",
+      "author": "George Packer",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/663/9780374603663.jpg",
+      "price_now": 1310,
+      "actual_price": 2079,
+      "availability": "Pre-order",
+      "id": 12
+    },
+    {
+      "title": "The Passenger: India",
+      "author": "AA VV",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/967/9781787702967.jpg",
+      "price_now": 747,
+      "actual_price": 1099,
+      "availability": "Available",
+      "id": 13
+    },
+    {
+      "title": "Indus Basin Uninterrupted",
+      "author": "Uttam Kumar Sinha",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/486/9780670094486.jpg",
+      "price_now": 551,
+      "actual_price": 799,
+      "availability": "Out of Stock",
+      "id": 14
+    },
+    {
+      "title": "He Who Finds a Wife",
+      "author": "Shweta R Sagar",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/089/9781664220089.jpg",
+      "price_now": 1438,
+      "actual_price": 1438,
+      "availability": "Pre-order",
+      "id": 15
+    },
+    {
+      "title": "The Great Awakening",
+      "author": "Mark Lee",
+      "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/143/9781955459143.jpg",
+      "price_now": 638,
+      "actual_price": 638,
+      "availability": "Available",
+      "id": 16
+    }
+  ],
+  "cart": [
+    {
+      "product_id": 2,
+      "product_qty": 1,
+      "product_title": "The Hardest Place",
+      "product_img": "https://d2g9wbak88g7ch.cloudfront.net/productimages/mainimages/060/9780812995060.jpg",
+      "product_price": 815,
+      "product_author": "Wesley Morgan",
+      "id": 1
+    }
+  ]
+}

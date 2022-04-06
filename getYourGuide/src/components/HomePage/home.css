@@ -1,0 +1,186 @@
+.navbar{
+    height: 85px;
+    /* background-color: rgb(219, 240, 248); */
+    display: flex;
+    justify-content: space-between;
+    font-family: GT Eesti,
+    Arial,
+    sans-serif;
+}
+
+.navbarLogo img{
+    width: 80%;
+    height: 85px;
+    margin-left: 45%;
+}
+.navbarContent{
+    margin-right: 8%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.signUp{
+    width: 106%;
+    height: 38px;
+    margin: 0px 10px;
+    background-color:#1071eb;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.navbarImg{
+    background-image: url("https://www.linkpicture.com/q/img.webp");
+    height: 500px;
+}
+.imgSearch{
+    display: flex;
+    justify-content: center;
+}
+.imgSearch input{
+    width: 580px;
+    height: 50px;
+    margin-top: 25px;
+    border-radius: 35px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: #000000;
+    padding-left: 20px;
+    
+}
+.imgSearch button{
+    width: 120px;
+    margin-top: 25px;
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 35px;
+    border: none;
+    background-color:#1071eb;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.imgContent{
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: -44%;
+    margin-top: 58px;
+}
+.orangeLine{
+    height: 8px;
+    background-color: #ee5235;
+    margin-top: -2px;
+    border: none;
+}
+.navbarContent div{
+    margin-right: 15px;
+    font-size: 15px;
+}
+.favourite{
+    margin: 70px 100px;
+    /* border: 1px solid black; */
+}
+.favHeading{
+    font-weight: bold;
+    font-size: 36px;
+    text-align: start;
+    color: #1a2b45;
+}
+.favContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.tourCard{
+    width: 290px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #d8dde4;
+    border-radius: 5px;
+    text-align: start;
+    margin-top: 25px;
+    padding-bottom: 28px;
+}
+.tourImg{
+    width: 290px;
+}
+.tourCont{
+    margin-left: 10px;
+}
+.tourCity{
+    font-weight: bold;
+    color: #1a2b45;
+}
+.tourpickup{
+    color: #1e2335;
+    font-size: 15px;
+}
+.tourCityPerson{
+    color: #1e2335;
+    font-size: 10px;
+}
+.destinations{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 26px;
+}
+.destinyOne{
+    background-image: url("https://cdn.getyourguide.com/img/location/5ffeb4d289b13.jpeg/86.jpg");
+    width: 190px;
+    height: 230px;
+    border-radius: 5px;
+    background-blend-mode: darken;
+}
+.destinyTwo{
+    width: 190px;
+    height: 230px;
+    border-radius: 5px;
+    background-blend-mode: darken;
+    background-image: url("https://cdn.getyourguide.com/img/location/5b2133119d90a.jpeg/86.jpg");
+    /* background: linear-gradient(blue, pink); */
+  /* filter: grayscale(100%); */
+
+}
+.destinyThree{
+    width: 190px;
+    height: 230px;
+    border-radius: 5px;
+   background-blend-mode: darken;
+    background-image: url("https://cdn.getyourguide.com/img/location/ff75fe2d863349ff.jpeg/86.jpg");
+}
+.destinyFour{
+    width: 190px;
+    height: 230px;
+    border-radius: 5px;
+    background-blend-mode: darken;
+    background-image: url("https://cdn.getyourguide.com/img/location/5ffeb0af63a25.jpeg/86.jpg");
+}
+.destinyFive{
+    width: 190px;
+    height: 230px;
+    border-radius: 5px;
+    /* background-size: cover; */
+   background-blend-mode: darken;
+    background-image: url("https://cdn.getyourguide.com/img/location/5ffeb327cba00.jpeg/86.jpg");
+}
+.destinySix{
+    width: 190px;
+    height: 230px;
+    border-radius: 5px;
+    background-image: url("https://cdn.getyourguide.com/img/location/5ffeb392eb81e.jpeg/86.jpg");
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.destinations h3{
+    color: white;
+    padding-left: 13px;
+    text-align: start;
+    margin-top: 193px;
+}
