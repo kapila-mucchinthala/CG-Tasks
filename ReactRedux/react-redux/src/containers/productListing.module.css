@@ -1,0 +1,11 @@
+.products_page{
+    max-width: 95%;
+
+    display: grid;
+    grid-template-columns: 24% 24% 24% 24%;
+    grid-gap: 2%;
+    margin: 0.5rem auto;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
