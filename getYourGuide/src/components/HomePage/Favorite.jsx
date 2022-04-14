@@ -7,6 +7,11 @@ export const Favorite = ({url,city,pickup,rating,price}) => {
             <div>
                 <img className='tourImg' src={url} alt=""/>
             </div>
+            <div>
+                <img className='tourImg' src={url} alt=""/>
+            </div><div>
+                <img className='tourImg' src={url} alt=""/>
+            </div>
             <div className='tourCont'>
                 <p className='tourCity'>{city}</p>
                 <p className='tourpickup'>{ pickup}</p>
